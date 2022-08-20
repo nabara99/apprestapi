@@ -11,10 +11,11 @@
     "url": "git+https://github.com/nabara99/apprestapi.git"
   },
   "keywords": [
-    "restapi",
+    "rest",
+    "api",
     "nodejs"
   ],
-  "author": "nabara",
+  "author": "nabara99",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nabara99/apprestapi/issues"
