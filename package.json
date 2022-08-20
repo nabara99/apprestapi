@@ -1,0 +1,23 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabara99/apprestapi.git"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs"
+  ],
+  "author": "nabara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabara99/apprestapi/issues"
+  },
+  "homepage": "https://github.com/nabara99/apprestapi#readme"
+}
